@@ -9,7 +9,7 @@ body{
 .banner{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url('wp1917119-netflix-wallpapers.jpg');
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url('netflix-background-wallpaper.jpg');
 }
 
 #logo{
